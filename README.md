@@ -1,2 +1,2 @@
-This application is created to help coffee users locate coffee shops quickly.
-Language and Framework:HTML, CSS,JavaScript, AJAX.
+Language and Framework: HTML, CSS, Javascript, and jquery
+This project is created to allow users to easily check coffee shops near their destinations, displaying coffee shops with the closest distance. 
